@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "formulaName": "Principle Interest",
+        "params": ["Principle", "Interest Rate", "Time in Years"]
+    },
+    {
+        "id": 2,
+        "formulaName": "Compound Interest",
+        "params": ["Compound", "Interest Rate", "Time In Years"]
+    },
+    {
+        "id": 3,
+        "formulaName": "Net Income",
+        "params": ["Total Revenue", "Total Cost"]
+    },
+    {
+        "id": 4,
+        "formulaName": "Burn Rate",
+        "params": ["Total cost", "Total revenue"]
+    },
+    {
+        "id": 5,
+        "formulaName": "Net worth",
+        "params": ["Assets", "Liabilities"]
+    },
+    {
+        "id": 6,
+        "formulaName": "Lifetime wealth ratio",
+        "params": ["Net worth", "Total lifetime income"]
+    },
+    {
+        "id":7,
+        "formulaName": "Total amount",
+        "params": ["Principle", "Interest Rate", "Compounding", "Time"]
+    },
+    {
+        "id":8,
+        "formulaName": "Cash flow",
+        "params": ["Income", "Expenses"]
+    },
+    {
+        "id":9,
+        "formulaName": "Leverage ratio",
+        "params": ["Total Liabilities", "Total Debts", "Total Income"]
+    },
+    {
+        "id":10,
+        "formulaName": "Rule of 72",
+        "params": ["Interest Rate"]
+    },
+    {
+        "id":11,
+        "formulaName": "Total assets",
+        "params": ["Liabilities", "Equity"]
+    },
+    {
+        "id":12,
+        "formulaName": "Cash ratio",
+        "params": ["Cash", "Current liabilities"]
+    },
+    {
+        "id":13,
+        "formulaName": "Profit marigin",
+        "params": ["Net Income", "Sales"]
+    },
+    {
+        "id":14,
+        "formulaName": "Debt-to-equity-ratio",
+        "params": ["Total Liabilities", "Total Equity"]
+    },
+    {
+        "id":15,
+        "formulaName": "P/E Ratio",
+        "params": ["Share price", "Earnings Per Share"]
+    },
+    {
+        "id":16,
+        "formulaName": "EMI",
+        "params": ["Principle Amount", "Interest Rate", "Number of Months"]
+    },
+    {
+        "id":17,
+        "formulaName": "Inflation Rate",
+        "params": ["Current CPI", "Initial CPI"]
+    },
+    {
+        "id":18,
+        "formulaName": "Basic Growth Rate",
+        "params": ["Present Value", "Initial Value"]
+    },
+    {
+        "id":19,
+        "formulaName": "Liquidity Ratio",
+        "params": ["Total Liquidity Assets", "Total Current Debt"]
+    },
+    {
+        "id":20,
+        "formulaName": "EPS Ratio",
+        "params": ["Net Profit", "Number of Equity Shares"]
+    },
+    {
+        "id":21,
+        "formulaName": "PB Ratio",
+        "params": ["Market Price", "Book Value"]
+    },
+    {
+        "id":22,
+        "formulaName": "ROE",
+        "params": ["Net Income", "Shareholder Equity"]
+    }
+
+]
