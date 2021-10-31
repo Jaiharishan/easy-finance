@@ -8,8 +8,6 @@ EasyFinance is a website where you can search for formulae related to finance an
 
 Contribute to this repo by adding formulae to formulas.json and formulaFunctions.js
 
-See `contributing.md` for ways to get started.
-
 Please adhere to this project's `code of conduct`.
 
   
