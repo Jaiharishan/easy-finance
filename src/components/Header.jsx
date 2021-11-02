@@ -2,6 +2,8 @@ import { Search } from '@material-ui/icons'
 import React, {useState} from 'react'
 
 const Header = () => {
+
+    // query for searching the formulas
     const [query, setQuery] = useState('');
 
     return (
@@ -13,7 +15,7 @@ const Header = () => {
 
             <div className="d-flex align-items-center search mt-5 w-50 p-2" style={{border: '1px solid rgb(200, 200, 200)', minWidth: '300px', borderRadius: '1.5em'}}>
 
-                <input placeholder='search for formulas' type="text" className='w-100' style={{border: 'none', outline: 'none'}} />
+                <input value={query} onChange={e => setQuery(e.target.value)} placeholder='search for formulas' type="text" className='w-100' style={{border: 'none', outline: 'none'}} />
 
                 <Search />
             </div>
