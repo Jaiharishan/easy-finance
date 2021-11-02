@@ -8,7 +8,6 @@ const Homepage = () => {
         <>
             <Topbar/>
             <Header />  
-            <Formulas />
             <Footer />
         </>
     )

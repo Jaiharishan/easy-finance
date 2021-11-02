@@ -1,8 +1,7 @@
 import React from 'react'
 import Formula from './Formula';
-import Data from '../Formualas.json';
 
-const Formulas = () => {
+const Formulas = ({Data}) => {
 
     // const params = ['interest', 'principle', 'interest rate', 'time in years'];
     // console.log(Data);
