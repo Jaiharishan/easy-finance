@@ -1,7 +1,14 @@
 
 ## EasyFinance
 
-EasyFinance is a website where you can search for formulae related to finance and do calculations.
+EasyFinance is a website where you can save your time by search for formulas related to finance and do calculations.
+
+
+## TECHSTACK USED
+
+- ReactJS
+- Bootstrap
+- Axios
 
   
 ## Contributing
